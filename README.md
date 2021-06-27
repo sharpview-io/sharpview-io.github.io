@@ -1,5 +1,6 @@
 ## Welcome to GitHub Pages
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/67d64721856846fd920f4dd73adacfaf)](https://app.codacy.com/gh/sharpview-io/sharpview-io.github.io?utm_source=github.com&utm_medium=referral&utm_content=sharpview-io/sharpview-io.github.io&utm_campaign=Badge_Grade_Settings)
 [![GitHub Super-Linter](https://github.com/sharpview-io/sharpview-io.github.io/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
 
 
