@@ -17,8 +17,9 @@ const RepoReadmeLink: React.VFC = () => (
 export const Home: React.VFC = () => (
   <div>
     <P>
-      This is an example single page app built with React and React&nbsp;Router
-      using <code>BrowserRouter</code>. Navigate with the links below and
+      Code to connect people with Facebook for Developers. Explore AI, 
+      business tools, gaming, open source, publishing, social hardware, social integration,
+      and <code>BrowserRouter</code>. Navigate with the links below and
       refresh the page or copy/paste the url to test out the redirect
       functionality deployed to overcome GitHub&nbsp;Pages incompatibility with
       single page apps (like this one).
