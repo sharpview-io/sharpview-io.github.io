@@ -2,6 +2,8 @@
 
 [![GitHub Super-Linter](https://github.com/sharpview-io/sharpview-io.github.io/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/04477dd3daba4f34b3d448615c989d4f)](https://www.codacy.com/gh/sharpview-io/sharpview-io.github.io/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sharpview-io/sharpview-io.github.io&amp;utm_campaign=Badge_Grade)
+
 
 You can use the [editor on GitHub](https://github.com/sharpview-io/sharpview-io.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
