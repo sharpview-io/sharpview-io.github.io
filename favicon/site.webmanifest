@@ -2,7 +2,7 @@
     "name": "spa-github-pages",
     "icons": [
         {
-            "src": "/favicon/green-grid-144-168-192-512x512.png",
+            "src": "/favicon/fav-512*512.png",
             "sizes": "512x512",
             "type": "image/png"
         }
