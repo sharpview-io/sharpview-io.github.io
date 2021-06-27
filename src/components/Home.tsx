@@ -17,7 +17,7 @@ const RepoReadmeLink: React.VFC = () => (
 export const Home: React.VFC = () => (
   <div>
     <P>
-      Code to connect people with Facebook for Developers. Explore AI, 
+      Code to connect people with sharpview.io for Developers. Explore AI, 
       business tools, gaming, open source, publishing, social hardware, social integration,
       and <code>BrowserRouter</code>. Navigate with the links below and
       refresh the page or copy/paste the url to test out the redirect
