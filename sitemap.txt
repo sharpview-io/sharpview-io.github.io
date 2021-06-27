@@ -1,4 +1,4 @@
-http://developers.sharpview.io/
-http://developers.sharpview.io/?/example
-http://developers.sharpview.io/?/example/two-deep&field1=foo~and~field2=bar#boom!
-http://developers.sharpview.io/?/sitemap-link-generator
+https://developers.sharpview.io/
+https://developers.sharpview.io/?/example
+https://developers.sharpview.io/?/example/two-deep&field1=foo~and~field2=bar#boom!
+https://developers.sharpview.io/?/sitemap-link-generator
