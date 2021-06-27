@@ -1,1 +1,1 @@
-Sitemap: http://developers.sharpview.io/sitemap.txt
+Sitemap: https://developers.sharpview.io/sitemap.txt
