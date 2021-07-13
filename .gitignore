@@ -6,3 +6,12 @@ generated
 
 # Files marked with gitigx
 *gitigx*
+
+
+.DS_Store
+dist
+dist-ssr
+*.local
+.vercel
+.envrc
+.env
